@@ -1,7 +1,9 @@
 <!-- Cabeçalho -->
 ## Iuri Vepo
 
-### :desktop_computer: Tecnologias
+### :desktop_computer: Minhas Tecnologias
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
+
 
 <!--
 **iurilvepo/iurilvepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
