@@ -6,7 +6,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="60px"> ### https://br.linkedin.com/in/iuri-de-lara-vepo-6938856b
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 <!--
 **iurilvepo/iurilvepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
