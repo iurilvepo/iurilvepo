@@ -2,8 +2,7 @@
 ## Iuri Vepo
 
 ### :desktop_computer: Minhas Tecnologias
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
-
+![PHP]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px">
 
 <!--
 **iurilvepo/iurilvepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
