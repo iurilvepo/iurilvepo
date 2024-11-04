@@ -6,8 +6,8 @@
 
 #### https://br.linkedin.com/in/iuri-de-lara-vepo-6938856b
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurilvepo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurilvepo&show_icons=true&theme=tokyonight)
 <!--
 **iurilvepo/iurilvepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
